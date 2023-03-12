@@ -1,0 +1,9 @@
+#include <disp.h>
+#include <map.h>
+#include <moon.h>
+#include <msg.h>
+#include <npc.h>
+#include <spr.h>
+#include <util.h>
+#include <stdio.h>
+#include <stdlib.h>
